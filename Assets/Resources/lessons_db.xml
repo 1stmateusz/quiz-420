@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lessons>
+	<lesson id="0" name="Dupa">
+		<question id="0" difficulty="3" text="co za syf?">
+			<answer id="0" text="tak" correct="true"/>
+			<answer id="1" text="nie" correct="false"/>
+			<answer id="2" text="moze" correct="false"/>
+			<answer id="3" text="nie wiem" correct="false"/>
+		</question>
+	</lesson>
+</lessons>
