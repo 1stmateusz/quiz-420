@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
-public class GameManager : MonoBehaviour
+public class GameController : MonoBehaviour
 {
 	[SerializeField]
 	private Text _questionText;
@@ -49,8 +49,10 @@ public class GameManager : MonoBehaviour
 
 	private void Start()
 	{
-		//todo: determine which lesson to load
-		_unansweredQuestions = new Quiz420Db().GetLessons().Single().Questions;
+		_unansweredQuestions = new Quiz420Db()
+			.GetLessons()
+			.First(l => l.Name == CrossScenesData.LessonToLoad.Name)
+			.Questions;
 
 		_currentQuestion = GetNextQuestion();
 		UpdateUi();
@@ -58,7 +60,8 @@ public class GameManager : MonoBehaviour
 
 	private void Update()
 	{
-		//todo: handle if needed
+		//this is called once every frame
+		//todo: timer
 	}
 
 	public void OnAnswerASelected()

@@ -1,6 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lessons>
-	<lesson id="0" name="Dupa">
+	<lesson id="0" name="Dupa0">
+		<question id="0" difficulty="1" text="What is the capital of Japan?">
+			<answer id="0" text="Tokyo" correct="true"/>
+			<answer id="1" text="London" correct="false"/>
+			<answer id="2" text="Beijing" correct="false"/>
+			<answer id="3" text="Kuala Lumpur" correct="false"/>
+		</question>
+		<question id="1" difficulty="2" text="What is 2+2*2?">
+			<answer id="0" text="6" correct="true"/>
+			<answer id="1" text="8" correct="false"/>
+			<answer id="2" text="12" correct="false"/>
+			<answer id="3" text="4" correct="false"/>
+		</question>
+		<question id="2" difficulty="3" text="What is the population of London?">
+			<answer id="0" text="8.5mln" correct="true"/>
+			<answer id="1" text="10.5mln" correct="false"/>
+			<answer id="2" text="7mln" correct="false"/>
+			<answer id="3" text="12mln" correct="false"/>
+		</question>
+		<question id="3" difficulty="4" text="Which nuts are used in marzipan?">
+			<answer id="0" text="Almonds" correct="true"/>
+			<answer id="1" text="Peanuts" correct="false"/>
+			<answer id="2" text="Walnuts" correct="false"/>
+			<answer id="3" text="Hazels" correct="false"/>
+		</question>
+		<question id="4" difficulty="5" text="What is Elvis Presley s middle name?">
+			<answer id="0" text="Aaron" correct="true"/>
+			<answer id="1" text="Paul" correct="false"/>
+			<answer id="2" text="Jason" correct="false"/>
+			<answer id="3" text="Oliver" correct="false"/>
+		</question>
+	</lesson>
+	<lesson id="1" name="Dupa1">
+		<question id="0" difficulty="1" text="What is the capital of Japan?">
+			<answer id="0" text="Tokyo" correct="true"/>
+			<answer id="1" text="London" correct="false"/>
+			<answer id="2" text="Beijing" correct="false"/>
+			<answer id="3" text="Kuala Lumpur" correct="false"/>
+		</question>
+		<question id="1" difficulty="2" text="What is 2+2*2?">
+			<answer id="0" text="6" correct="true"/>
+			<answer id="1" text="8" correct="false"/>
+			<answer id="2" text="12" correct="false"/>
+			<answer id="3" text="4" correct="false"/>
+		</question>
+		<question id="2" difficulty="3" text="What is the population of London?">
+			<answer id="0" text="8.5mln" correct="true"/>
+			<answer id="1" text="10.5mln" correct="false"/>
+			<answer id="2" text="7mln" correct="false"/>
+			<answer id="3" text="12mln" correct="false"/>
+		</question>
+		<question id="3" difficulty="4" text="Which nuts are used in marzipan?">
+			<answer id="0" text="Almonds" correct="true"/>
+			<answer id="1" text="Peanuts" correct="false"/>
+			<answer id="2" text="Walnuts" correct="false"/>
+			<answer id="3" text="Hazels" correct="false"/>
+		</question>
+		<question id="4" difficulty="5" text="What is Elvis Presley s middle name?">
+			<answer id="0" text="Aaron" correct="true"/>
+			<answer id="1" text="Paul" correct="false"/>
+			<answer id="2" text="Jason" correct="false"/>
+			<answer id="3" text="Oliver" correct="false"/>
+		</question>
+	</lesson>
+	<lesson id="2" name="Dupa2">
+		<question id="0" difficulty="1" text="What is the capital of Japan?">
+			<answer id="0" text="Tokyo" correct="true"/>
+			<answer id="1" text="London" correct="false"/>
+			<answer id="2" text="Beijing" correct="false"/>
+			<answer id="3" text="Kuala Lumpur" correct="false"/>
+		</question>
+		<question id="1" difficulty="2" text="What is 2+2*2?">
+			<answer id="0" text="6" correct="true"/>
+			<answer id="1" text="8" correct="false"/>
+			<answer id="2" text="12" correct="false"/>
+			<answer id="3" text="4" correct="false"/>
+		</question>
+		<question id="2" difficulty="3" text="What is the population of London?">
+			<answer id="0" text="8.5mln" correct="true"/>
+			<answer id="1" text="10.5mln" correct="false"/>
+			<answer id="2" text="7mln" correct="false"/>
+			<answer id="3" text="12mln" correct="false"/>
+		</question>
+		<question id="3" difficulty="4" text="Which nuts are used in marzipan?">
+			<answer id="0" text="Almonds" correct="true"/>
+			<answer id="1" text="Peanuts" correct="false"/>
+			<answer id="2" text="Walnuts" correct="false"/>
+			<answer id="3" text="Hazels" correct="false"/>
+		</question>
+		<question id="4" difficulty="5" text="What is Elvis Presley s middle name?">
+			<answer id="0" text="Aaron" correct="true"/>
+			<answer id="1" text="Paul" correct="false"/>
+			<answer id="2" text="Jason" correct="false"/>
+			<answer id="3" text="Oliver" correct="false"/>
+		</question>
+	</lesson>
+	<lesson id="3" name="Dupa3">
+		<question id="0" difficulty="1" text="What is the capital of Japan?">
+			<answer id="0" text="Tokyo" correct="true"/>
+			<answer id="1" text="London" correct="false"/>
+			<answer id="2" text="Beijing" correct="false"/>
+			<answer id="3" text="Kuala Lumpur" correct="false"/>
+		</question>
+		<question id="1" difficulty="2" text="What is 2+2*2?">
+			<answer id="0" text="6" correct="true"/>
+			<answer id="1" text="8" correct="false"/>
+			<answer id="2" text="12" correct="false"/>
+			<answer id="3" text="4" correct="false"/>
+		</question>
+		<question id="2" difficulty="3" text="What is the population of London?">
+			<answer id="0" text="8.5mln" correct="true"/>
+			<answer id="1" text="10.5mln" correct="false"/>
+			<answer id="2" text="7mln" correct="false"/>
+			<answer id="3" text="12mln" correct="false"/>
+		</question>
+		<question id="3" difficulty="4" text="Which nuts are used in marzipan?">
+			<answer id="0" text="Almonds" correct="true"/>
+			<answer id="1" text="Peanuts" correct="false"/>
+			<answer id="2" text="Walnuts" correct="false"/>
+			<answer id="3" text="Hazels" correct="false"/>
+		</question>
+		<question id="4" difficulty="5" text="What is Elvis Presley s middle name?">
+			<answer id="0" text="Aaron" correct="true"/>
+			<answer id="1" text="Paul" correct="false"/>
+			<answer id="2" text="Jason" correct="false"/>
+			<answer id="3" text="Oliver" correct="false"/>
+		</question>
+	</lesson>
+	<lesson id="4" name="Dupa4">
 		<question id="0" difficulty="1" text="What is the capital of Japan?">
 			<answer id="0" text="Tokyo" correct="true"/>
 			<answer id="1" text="London" correct="false"/>
